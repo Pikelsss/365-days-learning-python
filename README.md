@@ -1,18 +1,33 @@
 Day 1: Print 'Hello World' and your name.
+
 Day 2: Create variables of different types and print them.
+
 Day 3: Do basic math (add, subtract, multiply, divide two numbers).
+
 Day 4: Work with strings: concatenate first and last names.
+
 Day 5: Take input from a user and display a message.
+
 Day 6: Write comments explaining what each line of code does.
+
 Day 7: Project: Create a simple calculator that adds two numbers.
+
 Day 8: Print 'Hello World' and your name.
+
 Day 9: Create variables of different types and print them.
+
 Day 10: Do basic math (add, subtract, multiply, divide two numbers).
+
 Day 11: Work with strings: concatenate first and last names.
+
 Day 12: Take input from a user and display a message.
+
 Day 13: Write comments explaining what each line of code does.
+
 Day 14: Project: Create a simple calculator that adds two numbers.
+
 Day 15: Print 'Hello World' and your name.
+
 Day 16: Create variables of different types and print them.
 Day 17: Do basic math (add, subtract, multiply, divide two numbers).
 Day 18: Work with strings: concatenate first and last names.
@@ -332,34 +347,65 @@ Day 331: Create a homepage route.
 Day 332: Use templates to display HTML.
 Day 333: Create dynamic routes with variables.
 Day 334: Accept form data from a user.
+
 Day 335: Send a simple API request and print response.
+
 Day 336: Mini-project: Create a mini web survey app.
+
 Day 337: Solve a basic coding challenge (Fibonacci).
+
 Day 338: Solve a basic string challenge (Palindrome check).
+
 Day 339: Build a simple To-Do List App.
+
 Day 340: Create a quiz game with multiple-choice questions.
+
 Day 341: Design a simple number converter (e.g., decimal to binary).
+
 Day 342: Create a simple blog backend (no frontend).
+
 Day 343: Final Project Week: Pick a project idea and build it.
+
 Day 344: Solve a basic coding challenge (Fibonacci).
+
 Day 345: Solve a basic string challenge (Palindrome check).
+
 Day 346: Build a simple To-Do List App.
+
 Day 347: Create a quiz game with multiple-choice questions.
+
 Day 348: Design a simple number converter (e.g., decimal to binary).
+
 Day 349: Create a simple blog backend (no frontend).
+
 Day 350: Final Project Week: Pick a project idea and build it.
+
 Day 351: Solve a basic coding challenge (Fibonacci).
+
 Day 352: Solve a basic string challenge (Palindrome check).
+
 Day 353: Build a simple To-Do List App.
+
 Day 354: Create a quiz game with multiple-choice questions.
+
 Day 355: Design a simple number converter (e.g., decimal to binary).
+
 Day 356: Create a simple blog backend (no frontend).
+
 Day 357: Final Project Week: Pick a project idea and build it.
+
 Day 358: Solve a basic coding challenge (Fibonacci).
+
 Day 359: Solve a basic string challenge (Palindrome check).
+
 Day 360: Build a simple To-Do List App.
+
 Day 361: Create a quiz game with multiple-choice questions.
+
 Day 362: Design a simple number converter (e.g., decimal to binary).
+
 Day 363: Create a simple blog backend (no frontend).
+
 Day 364: Final Project Week: Pick a project idea and build it.
+
 Day 365: Final Project: Keep improving and adding new features!
