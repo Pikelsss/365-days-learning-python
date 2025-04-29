@@ -44,6 +44,24 @@ print("Boolean:", is_student)
 is_student = False
 print("Boolean:", is_student)
 # Result: Boolean: False
+# Other example
+is_student = 1
+print("Boolean:", is_student)
+# Result: Boolean: 1
+# What about 0 in boolean?
+# Where can we use this?
+# We can use it to check if something is false, like if a student is not enrolled in a course.
+# For example
+is_student = 0
+print("Boolean:", is_student)
+# Result: Boolean: 0
+# What about empty string in boolean?
+# Where can we use this?
+# We can use it to check if something is false, like if a student is not enrolled in a course.
+# For example
+is_student = ""
+print("Boolean:", is_student)
+# Result: Boolean: ''
 
 # Next is List
 # What is List?
